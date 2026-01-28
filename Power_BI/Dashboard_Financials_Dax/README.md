@@ -1,4 +1,4 @@
-# DESAFIO  - DIO - Relatório Sales Report com categorização
+# DESAFIO  - DIO - Dashboard deE-commerce com Power BI utilizando fórmulas DAX
 
 O Projeto consiste em criar as tabelas dimensão e fato do relatório Financial Sample baseado em star schema:
 - Tabelas a serem criadas: F_Vendas, D_Produtos, D_Produtos_Detalhes, D_Descontos, D_Detalhes e calendario 
